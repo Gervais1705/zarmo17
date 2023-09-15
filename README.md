@@ -8,7 +8,7 @@ IT professional with 5 years background in Frontend Web developement, network su
 
 * 🌍  I'm based in Seattle
 * ✉️  You can contact me at [gervaisyameogo17@gmail.com](mailto:gervaisyameogo17@gmail.com)
-* 🧠  I'm learning React, Git , Python
+* 🧠  I'm learning Angular, Python
 
 ### Skills
 
@@ -24,6 +24,7 @@ IT professional with 5 years background in Frontend Web developement, network su
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
 
