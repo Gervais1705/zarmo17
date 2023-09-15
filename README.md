@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & Designer
 ------------------------
 
-IT professional with 5 years background in network support specialist, support desk software troubleshooting .I always been passionate about coding for the past 5 years. New graduate from Udacity with a certification. Resourceful professional with successful track record in developing innovative web designs and features. Possesses solid knowledge of HTML, CSS, JavaScript and DOM and React with ability to quickly learn new technologies. Demonstrated success in identifying and resolving complex code issues.
+IT professional with 5 years background in Frontend Web developement, network support specialist, support desk software troubleshooting .I always been passionate about coding for the past 5 years. Resourceful professional with successful track record in developing innovative web designs and features. Possesses solid knowledge of HTML, CSS, JavaScript, DOM, Tailwind and React with ability to quickly learn new technologies. Demonstrated success in identifying and resolving complex code issues.
 
 * 🌍  I'm based in Seattle
 * ✉️  You can contact me at [gervaisyameogo17@gmail.com](mailto:gervaisyameogo17@gmail.com)
